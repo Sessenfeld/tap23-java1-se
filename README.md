@@ -27,3 +27,7 @@ code ~/.bashrc
     - disable "Editor: Code Lens" to get rid of unwanted help
 - Intro to jshell
 - Hands on Java
+
+----------------------------------------------------
+git push -u origin (branch name)
+add - commit - push

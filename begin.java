@@ -18,9 +18,9 @@
 
         String str = "mN";
         p(str + ":" + myNumber);
+    }
         public static void p(Object Line){
-            System.out.println(line);
+            // System.out.println(line);
         }
         
-    }
  }
