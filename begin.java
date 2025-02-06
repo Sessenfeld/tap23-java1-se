@@ -15,5 +15,12 @@
         int myNumber;
         myNumber = 5;
         System.out.println(myNumber);
+
+        String str = "mN";
+        p(str + ":" + myNumber);
+        public static void p(Object Line){
+            System.out.println(line);
+        }
+        
     }
  }
